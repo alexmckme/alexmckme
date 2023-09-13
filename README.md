@@ -9,9 +9,6 @@
 
 - 👨‍💻 All of my projects are available at my personal website [https://alexmackame.com/](https://alexmackame.com/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/alexmackame/**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
