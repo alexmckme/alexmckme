@@ -7,7 +7,7 @@
 
 - 👯 I’m sharpening my skills daily on CodeWars.com, take a look at some katas [here](https://github.com/alexmckme/CodeWars_Practice)
 
-- 👨‍💻 All of my projects are available at my personal website [https://alexmackame.com/](https://alexmackame.com/)
+- 👨‍💻 Here is my personal website [https://alexmackame.com/](https://alexmackame.com/)
 
 <p align="left">
 </p>
