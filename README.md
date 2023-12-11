@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate Software Developer from France</h3>
 
-- 🔭 I’m currently working on a full-stack solution named BoostTracker, find the code [here](https://github.com/alexmckme/BoostsTracker)
-
 - 🌱 I’m currently learning **React, TypeScript**
 
 - 👯 I’m sharpening my skills daily on CodeWars.com, take a look at some katas [here](https://github.com/alexmckme/CodeWars_Practice)
